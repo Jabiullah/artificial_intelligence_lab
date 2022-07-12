@@ -1,0 +1,6 @@
+Count :  0                               for k = 1
+Validation accuracy : 0
+Count :  5                               for k = 10
+Validation accuracy : 0.5
+Count :  11                              for k = 15
+Validation accuracy : 0.7333333333333333
